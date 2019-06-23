@@ -1,0 +1,14 @@
+/Users/mju/Codes/C#/TryMagicOnion/Client/bin/Debug/netcoreapp2.2/Client.deps.json
+/Users/mju/Codes/C#/TryMagicOnion/Client/bin/Debug/netcoreapp2.2/Client.runtimeconfig.json
+/Users/mju/Codes/C#/TryMagicOnion/Client/bin/Debug/netcoreapp2.2/Client.runtimeconfig.dev.json
+/Users/mju/Codes/C#/TryMagicOnion/Client/bin/Debug/netcoreapp2.2/Client.dll
+/Users/mju/Codes/C#/TryMagicOnion/Client/bin/Debug/netcoreapp2.2/Client.pdb
+/Users/mju/Codes/C#/TryMagicOnion/Client/obj/Debug/netcoreapp2.2/Client.csprojAssemblyReference.cache
+/Users/mju/Codes/C#/TryMagicOnion/Client/obj/Debug/netcoreapp2.2/Client.csproj.CoreCompileInputs.cache
+/Users/mju/Codes/C#/TryMagicOnion/Client/obj/Debug/netcoreapp2.2/Client.AssemblyInfoInputs.cache
+/Users/mju/Codes/C#/TryMagicOnion/Client/obj/Debug/netcoreapp2.2/Client.AssemblyInfo.cs
+/Users/mju/Codes/C#/TryMagicOnion/Client/obj/Debug/netcoreapp2.2/Client.dll
+/Users/mju/Codes/C#/TryMagicOnion/Client/obj/Debug/netcoreapp2.2/Client.pdb
+/Users/mju/Codes/C#/TryMagicOnion/Client/bin/Debug/netcoreapp2.2/Server.dll
+/Users/mju/Codes/C#/TryMagicOnion/Client/bin/Debug/netcoreapp2.2/Server.pdb
+/Users/mju/Codes/C#/TryMagicOnion/Client/obj/Debug/netcoreapp2.2/Client.csproj.CopyComplete

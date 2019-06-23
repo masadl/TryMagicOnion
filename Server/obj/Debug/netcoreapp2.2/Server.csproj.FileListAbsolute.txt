@@ -1,0 +1,11 @@
+/Users/mju/Codes/C#/TryMagicOnion/Server/bin/Debug/netcoreapp2.2/Server.deps.json
+/Users/mju/Codes/C#/TryMagicOnion/Server/bin/Debug/netcoreapp2.2/Server.runtimeconfig.json
+/Users/mju/Codes/C#/TryMagicOnion/Server/bin/Debug/netcoreapp2.2/Server.runtimeconfig.dev.json
+/Users/mju/Codes/C#/TryMagicOnion/Server/bin/Debug/netcoreapp2.2/Server.dll
+/Users/mju/Codes/C#/TryMagicOnion/Server/bin/Debug/netcoreapp2.2/Server.pdb
+/Users/mju/Codes/C#/TryMagicOnion/Server/obj/Debug/netcoreapp2.2/Server.csprojAssemblyReference.cache
+/Users/mju/Codes/C#/TryMagicOnion/Server/obj/Debug/netcoreapp2.2/Server.csproj.CoreCompileInputs.cache
+/Users/mju/Codes/C#/TryMagicOnion/Server/obj/Debug/netcoreapp2.2/Server.AssemblyInfoInputs.cache
+/Users/mju/Codes/C#/TryMagicOnion/Server/obj/Debug/netcoreapp2.2/Server.AssemblyInfo.cs
+/Users/mju/Codes/C#/TryMagicOnion/Server/obj/Debug/netcoreapp2.2/Server.dll
+/Users/mju/Codes/C#/TryMagicOnion/Server/obj/Debug/netcoreapp2.2/Server.pdb
